@@ -15,6 +15,7 @@ INSERT INTO dim_product VALUES(8,'Samsung Galaxy',3);
 INSERT INTO dim_product VALUES(9,'Ground Nuts',4);
 INSERT INTO dim_product VALUES(10,'Suger',4);
 
+
 INSERT INTO dim_city VALUES(1,'PUNE',1)
 
 DROP SEQUENCE seq_TIME
