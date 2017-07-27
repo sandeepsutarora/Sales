@@ -1,4 +1,6 @@
 
+
+#This is just test file
 INSERT INTO dim_product_type VALUES(1,'FMCG');
 INSERT INTO dim_product_type VALUES(2,'ELECTRONICS');
 INSERT INTO dim_product_type VALUES(3,'DIGITAL');

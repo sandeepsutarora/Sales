@@ -1,6 +1,6 @@
 -- Created by Vertabelo (http://vertabelo.com)
 -- Last modification date: 2017-07-25 10:00:40.142
-
+dim_product_type
 -- tables
 -- Table: dim_city
 CREATE TABLE dim_city (
